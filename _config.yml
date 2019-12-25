@@ -1,14 +1,14 @@
 # Site settings
-title: 碎碎念
+title: qtbim
 url: "https://qtbim.com"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/linchengyuan.github.io" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
-  One or more sentences introducing this blog.
+  碎碎念
 
 # Your information
 email: my@qtbim.com
-author: 林城源
+author: Chengyuan
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 profile: One sentence introducing yourself.
 #twitter_username: twitter_username
