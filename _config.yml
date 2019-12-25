@@ -3,8 +3,7 @@ title: qtbim
 url: "https://qtbim.com"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/linchengyuan.github.io" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
-description: >
-  碎碎念
+description: 碎碎念
 
 # Your information
 email: my@qtbim.com
